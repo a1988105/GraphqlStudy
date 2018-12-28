@@ -9,8 +9,10 @@
   "author": "Eric",
   "license": "MIT",
   "dependencies": {
+    "bluebird": "^3.5.3",
     "express": "^4.16.4",
     "express-graphql": "^0.7.1",
-    "graphql": "^14.0.2"
+    "graphql": "^14.0.2",
+    "sqlite3": "^4.0.4"
   }
 }
